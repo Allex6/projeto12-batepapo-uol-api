@@ -1,0 +1,33 @@
+{
+  "name": "projeto12-batepapo-uol-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allex6/projeto12-batepapo-uol-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allex6/projeto12-batepapo-uol-api/issues"
+  },
+  "homepage": "https://github.com/Allex6/projeto12-batepapo-uol-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mongodb": "^4.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
